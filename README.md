@@ -27,7 +27,7 @@ LogOut	- By clinking logout user will be logged out from the program.
 
 Video Link: https://drive.google.com/file/d/15IpXybm2Hgn7o132HHQm1cHRYNYmYzMi/view?usp=sharing
 
-Github Link: https://github.com/amjadali070/Phonebook-in-Data-Structure-using-java
+Github Link:https://github.com/Sunny247874/Phonebook-Project
 
 ---- Thanks ----
 Developed By: Ayush Kumar (Students of Gandhi Institute for Education and Technology)
