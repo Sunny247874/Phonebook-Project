@@ -30,4 +30,4 @@ Video Link: https://drive.google.com/file/d/15IpXybm2Hgn7o132HHQm1cHRYNYmYzMi/vi
 Github Link: https://github.com/amjadali070/Phonebook-in-Data-Structure-using-java
 
 ---- Thanks ----
-Developed By: Muhammad Tahir and Amjad Ali (Students of Sukkur IBA University)
+Developed By: Ayush Kumar (Students of Gandhi Institute for Education and Technology)
